@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá, meu nome é Guilherme Santos. Seja bem vindo(a)!
 
 <div align="center">
   <a href="https://github.com/guisaoliv">
